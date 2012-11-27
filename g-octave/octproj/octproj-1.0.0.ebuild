@@ -13,7 +13,7 @@ HOMEPAGE="http://trac.osgeo.org/proj/ http://octave.sourceforge.net/index.html"
 
 LICENSE="GPL-3 MIT"
 SLOT="0"
-KEYWORDS="~amd64 ~amd64 ~ppc ~ppc64 ~x86 ~x86 ~x86"
+KEYWORDS="~amd64 ~x86"
 IUSE=""
 
 DEPEND="

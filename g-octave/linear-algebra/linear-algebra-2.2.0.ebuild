@@ -13,7 +13,7 @@ HOMEPAGE="http://octave.sf.net"
 
 LICENSE="GPLv3+, LGPLv3+, FreeBSD"
 SLOT="0"
-KEYWORDS="~amd64 ~amd64 ~ppc ~ppc64 ~x86 ~x86 ~x86"
+KEYWORDS="~amd64 ~x86"
 IUSE=""
 
 DEPEND=""

@@ -13,7 +13,7 @@ HOMEPAGE="http://www.comson.org/dem"
 
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="~amd64 ~amd64 ~ppc ~ppc64 ~x86 ~x86 ~x86"
+KEYWORDS="~amd64 ~x86"
 IUSE=""
 
 DEPEND=""
