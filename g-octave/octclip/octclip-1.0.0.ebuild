@@ -13,7 +13,7 @@ HOMEPAGE="http://davis.wpi.edu/~matt/courses/clipping/"
 
 LICENSE="GPL version 3 or later and BSD"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS="~amd64 ~amd64 ~ppc ~ppc64 ~x86 ~x86 ~x86"
 IUSE=""
 
 DEPEND=""

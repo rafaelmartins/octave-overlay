@@ -13,7 +13,7 @@ HOMEPAGE="http://octave.sourceforge.net"
 
 LICENSE="GPLv3+"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS="~amd64 ~amd64 ~ppc ~ppc64 ~x86 ~x86 ~x86"
 IUSE=""
 
 DEPEND=""

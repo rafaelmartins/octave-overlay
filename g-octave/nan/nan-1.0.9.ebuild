@@ -13,7 +13,7 @@ HOMEPAGE="http://www.dpmi.tu-graz.ac.at/~schloegl/matlab/NaN"
 
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS="~amd64 ~amd64 ~ppc ~ppc64 ~x86 ~x86 ~x86"
 IUSE=""
 
 DEPEND=""

@@ -13,7 +13,7 @@ HOMEPAGE="http://octave.sf.net, http://www.geuz.org/gmsh"
 
 LICENSE="GPLv2+"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS="~amd64 ~amd64 ~ppc ~ppc64 ~x86 ~x86 ~x86"
 IUSE=""
 
 DEPEND="

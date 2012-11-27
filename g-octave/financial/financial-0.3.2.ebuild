@@ -4,18 +4,20 @@
 
 EAPI="3"
 
-G_OCTAVE_CAT="extra"
+G_OCTAVE_CAT="main"
 
 inherit g-octave
 
-DESCRIPTION="A statistics and machine learning toolbox for Octave and Matlab for da..."
-HOMEPAGE="http://pub.ist.ac.at/~schloegl/matlab/NaN"
+DESCRIPTION="Financial manipulation and plotting functions"
+HOMEPAGE="http://octave.sf.net"
 
-LICENSE="GPL-3"
+LICENSE="GPL-3 GPL-2"
 SLOT="0"
 KEYWORDS="~amd64 ~amd64 ~ppc ~ppc64 ~x86 ~x86 ~x86"
 IUSE=""
 
 DEPEND=""
 RDEPEND="${DEPEND}
-	>sci-mathematics/octave-3.2.0"
+	>=g-octave/miscellaneous-1.0.6
+	>=g-octave/time-1.0.5
+	>=sci-mathematics/octave-3.0.0"
