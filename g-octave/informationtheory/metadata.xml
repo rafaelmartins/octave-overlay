@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<herd>no-herd</herd>
+	<maintainer>
+		<email>rafael@g-octave</email>
+	</maintainer>
+	<longdescription lang="en">
+		The files on this directory was created by g-octave.
+	</longdescription>
+</pkgmetadata>
