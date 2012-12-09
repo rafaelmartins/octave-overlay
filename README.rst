@@ -9,3 +9,23 @@ ebuild, please open an issue on our GitHub
 `bug tracker <https://github.com/rafaelmartins/octave-overlay/issues>`_.
 
 This overlay is updated weekly by a cron-job.
+
+
+Installation instrunctions
+--------------------------
+
+Install layman::
+
+    # emerge -av layman git
+
+Follow the steps described on layman's post-install message, and after that,
+run::
+
+    # layman -L
+    # layman -a octave
+
+Done. You should be able to install the octave-forge packages using your
+favorite package manager.
+
+The packages are under the ``g-octave`` category. This may be subject of
+change in future.
